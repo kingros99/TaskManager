@@ -6,6 +6,7 @@
         {
             Console.WriteLine("===Task Manager===");
             TaskManager.ShowTasks();
+            TaskManager.AddTask();
         }
     }
 }
